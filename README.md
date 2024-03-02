@@ -1,4 +1,4 @@
-# Closest Match Program
+# Closest Match Item Array Program
 
 This program is written in Python and uses the `streamlit`, `spacy`, `sklearn`, and `numpy` libraries. It is designed to find the closest match to a user's input string from a predefined list of array items.
 
